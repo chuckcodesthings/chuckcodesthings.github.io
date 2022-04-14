@@ -1,2 +1,3 @@
 # chuckcodesthings.github.io
-Website!
+
+This is a website I am building to share stuff about socialism, it is under construction :D
